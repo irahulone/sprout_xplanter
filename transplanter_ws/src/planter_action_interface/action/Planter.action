@@ -1,0 +1,5 @@
+int32 num_waypoint
+---
+int8 success
+---
+int32 stage
